@@ -7,3 +7,4 @@ bin/*
 logs/*
 experiments/*
 CMakeLists.txt.user*
+build/
